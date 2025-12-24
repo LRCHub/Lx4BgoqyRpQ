@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "中学22年生 - 22nd year of junior high school",
+  "base_artist": "Creepy Nuts",
+  "createdAt": "2025-12-24T14:46:08.114330Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "中学22年生 - 22nd year of junior high school",
+      "artist": "Creepy Nuts",
+      "has_synced": true,
+      "path": "select/01_中学22年生_-_22nd_year_of_junior_high_school_Creepy_Nuts.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "中学22年生 - 22nd year of junior high school",
+      "artist": "CreepyNuts",
+      "has_synced": false,
+      "path": "select/pl_01_中学22年生_-_22nd_year_of_junior_high_school_CreepyNuts.txt"
+    }
+  ]
+}
